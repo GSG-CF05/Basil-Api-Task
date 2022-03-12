@@ -12,9 +12,9 @@ First 4 Teams is Qulify To Champions League And First 2 Teams After The First 4 
 - RESPONSIVE WEB DESIGN
 - JAVASCRIPT API
 
-### Create [Basil](https://github.com/Bas-Shiekh)
+## Create [Basil](https://github.com/Bas-Shiekh)
 
-### Final Result
+## Final Result
 
-- <img src="img/loadingpage.png" width="200px">
-- <img src="img/project-image.png" width="200px">
+- <img src="img/loadingpage.png" width="95%">
+- <img src="img/project-image.png" width="95%">
